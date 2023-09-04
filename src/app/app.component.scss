@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    // flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+  }
+  .img{
+    height: 10vh;
+    width: 20vh;
+  }
+  .incenter{
+    text-align: center;
+    align-items: center;
+  }
+.inptext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 0vh;
+    margin-left: 3%;
+  }
+  
+.custom-cursor {
+  cursor: pointer;
+}
+.error-output{
+    margin: 10px;
+    font-style: 18px;
+    font-size: 18px;
+    color: rgb(151, 6, 6);
+}
+
+// .userName{
+//   height: 100%;
+//   width: 15%;
+  
+// }
